@@ -1,0 +1,1 @@
+Unlike Stash's native external subtitle support, this plugin adds ASS/SSA subtitle rendering with styling, positioning, fonts and other ASS features using JASSUB.
