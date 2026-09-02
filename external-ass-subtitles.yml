@@ -1,7 +1,8 @@
+id: external-ass-subtitles
 name: External ASS Subtitles
 description: Renders external ASS/SSA subtitle files next to scene videos using JASSUB.
 version: 1.0.0
-url: https://github.com/
+url: https://github.com/ProudRykar/external-ass-subtitles
 
 interface: raw
 
