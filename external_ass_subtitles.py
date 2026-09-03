@@ -8,7 +8,6 @@ from stashapi.stashapp import StashInterface
 
 PLUGIN_ID = "external-ass-subtitles"
 
-
 LANGUAGES = {
     "en": "English",
     "eng": "English",
